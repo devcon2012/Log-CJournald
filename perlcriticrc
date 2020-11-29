@@ -1,0 +1,9 @@
+#
+# perlcritic settings
+severity	= stern
+
+# please explain:
+# verbose	= 11
+
+# I disagree:
+[-ValuesAndExpressions::ProhibitConstantPragma]

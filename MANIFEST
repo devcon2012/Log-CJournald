@@ -1,0 +1,15 @@
+.gitignore
+Changes
+example/readlog.c
+example/readlog.pl
+example/README
+journaldapihelper.c
+journaldapihelper.h
+lib/Log/CJournalD.pm
+lib/Log/CJournalD.xs
+lib/Log/CJournalD/handle.pm
+LICENSE
+Makefile.PL
+perlcriticrc
+README.md
+t/Log-CJournald.t

@@ -1,0 +1,4 @@
+
+Compile c readlog example:
+
+gcc readlog.c -o readlog -l systemd

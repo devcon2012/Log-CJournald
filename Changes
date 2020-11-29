@@ -1,0 +1,10 @@
+Revision history for Perl extension Log::CJournald
+
+
+0.1  Mi 25. Nov 20:44:51 CET 2020
+	- first useful version
+
+0.01  Di 17. Nov 11:15:13 CET 2020
+	- original version; created by h2xs 1.23 with options
+		-A -n Log::CJournald
+
